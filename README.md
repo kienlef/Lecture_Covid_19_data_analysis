@@ -1,6 +1,6 @@
 # Applied Data Science - COVID 19 Data Prototype
 
-# UDEMY Link: https://www.udemy.com/course/applied-data-science-covid-19-prototype/?referralCode=5316264CAD7289C935C9
+### [UDEMY course Link - Video Lecture] (https://www.udemy.com/course/applied-data-science-covid-19-prototype/?referralCode=5316264CAD7289C935C9)
 
 The goal of this lecture is to transport the best practices of data science from the industry while developing a COVID-19 analysis prototype
 
