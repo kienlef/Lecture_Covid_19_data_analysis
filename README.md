@@ -1,22 +1,29 @@
-# Applied Data Science - COVID 19 Data Prototype
+# Applied Data Science - COVID 19 Data Analysis
+
+**Additional content material to UDEMY video lecture course**
+
 
 [UDEMY course Link - Video Lecture](https://www.udemy.com/course/applied-data-science-covid-19-prototype/?referralCode=5316264CAD7289C935C9)
 
 The goal of this lecture is to transport the best practices of data science from the industry while developing a COVID-19 analysis prototype
 
-The student should learn the process of modeling and a methodology to approach a business problem.
+The student should learn the process of modeling (Python) and a methodology to approach a business problem.
 
-For this, we will introduce the CRISP-DM process
-The outline of this lecture follows the CRISP structure
+The final result will be a dynamic dashboard - which can be updated by one click - of COVID-19 data with filtered and calculated data sets like the current Doubling Rate of confirmed cases
 
-* Business understanding
-* Data Understanding
-* Data Preparation
-* Modeling (statistical and machine learning)
-* Deployment
+Techniques used are REST Services, Python Pandas, scikit-learn, Facebook Prophet, Plotly, Dash, + bonus section Tableau
+
+For this, we will follow an industry-standard process (CRISP-DM) by focusing on the iterative nature of agile development
+
+* Business understanding (what is our goal)
+* Data Understanding (where do we get data and cleaning of data)
+* Data Preparation (data transformation and visualization)
+* Modeling (Statistics, Machine Learning, and SIR Simulations on COVID Data)
+* Deployment (how to deliver results, dynamic dashboards in python and Tableau)
 
 The entire lecture follows the development flow of a rapid prototype project.
-Focus for the student is to develop its prototype (source code snipped are provided)
+
+Focus for the student is to develop its prototype, source code snipped are provided.
 Topics and the corresponding programming (Python) are introduced step by step in a very compact way.
 
 The outline with the individual lectures and learning topics are as follows:
@@ -180,7 +187,7 @@ on time series forecasting with Facebook Prophet, how to train the machine learn
   * Link to Bayesian theory
 
 
-## Section 10: Simulation of SIR compartmental model
+## Section 10: Simulation of SIR compartmental model (30 min)
 
 Compartmental models are a technique used to simplify the mathematical modeling of infectious disease.
 In this section, we will understand and simulate the SIR model, including a curve-fitting approach.
@@ -196,7 +203,8 @@ In this section, we will understand and simulate the SIR model, including a curv
 50. Dynamic SIR Simulation Example (5 min)
   * Adapting and showing a dynamic infection rate
 
-## Section 12: Bonus: Introduction to Tableau Dashboards
+
+## Section 11: Bonus - Introduction to Tableau Dashboards (1h 10min)
 
 You will learn the basics of Tableau, an interactive business intelligent software that helps to understand the data.
 The section is stand alone and can be done at any time to learn and publish your first dashboard on COVID-19 data.
@@ -204,9 +212,9 @@ The section is stand alone and can be done at any time to learn and publish your
 51. Introduction and Visual Tool overview (5:50)
 52. Tableau and Section Goal (3:05)
 53. Visualizing a world map (11:30)
-54. Time series (7:15)
-55. Rolling Mean (4:20)
+54. Time series charts (7:15)
+55. Rolling Mean Calculation (4:20)
 56. Doubling Rate Calculation (6:45)
-57. Additional Data (11:30)
+57. Linking Additional Data (11:30)
 58. Dynamic Axis Selection (8:40)
 59. Final Dashboard and Publishing (12:30)
