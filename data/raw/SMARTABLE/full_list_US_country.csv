@@ -1,0 +1,56 @@
+long;countryOrRegion;provinceOrState;county;isoCode;lat;totalConfirmedCases;newlyConfirmedCases;totalDeaths;newDeaths;totalRecoveredCases;newlyRecoveredCases
+-86.902298;United States;Alabama;;US-AL;32.318231;5078;175;164;4;0;0
+-154.493062;United States;Alaska;;US-AK;63.588753;321;2;9;0;153;0
+-111.093731;United States;Arizona;;US-AZ;34.048928;5068;135;191;7;6;0
+-91.831833;United States;Arkansas;;US-AR;35.20105;1971;190;42;3;726;0
+-119.417932;United States;California;;US-CA;36.778261;33866;2335;1229;49;3337;284
+-105.782067;United States;Colorado;;US-CO;39.550051;10116;382;447;27;559;0
+-73.087749;United States;Connecticut;;US-CT;41.603221;19816;1853;1331;204;63;0
+139.638;United States;Cruise Ship: Diamond Princess;;;35.4437;46;0;0;0;0;0
+-122.6655;United States;Cruise Ship: Grand Princess;;;37.6489;21;0;0;0;0;0
+-75.52767;United States;Delaware;;US-DE;38.910832;2745;207;72;5;495;29
+-77.0369;United States;District of Columbia;;US-DC;38.9072;2927;134;105;9;630;8
+-81.515754;United States;Florida;;US-FL;27.664827;27058;744;823;49;174;0
+-82.907123;United States;Georgia;;US-GA;32.157435;19399;1104;774;87;340;0
+;United States;Guam;;;;0;0;0;0;0;0
+-155.665857;United States;Hawaii;;US-HI;19.898682;584;4;10;0;423;9
+-114.742041;United States;Idaho;;US-ID;44.068202;1736;64;48;4;660;140
+-89.398528;United States;Illinois;;US-IL;40.633125;31508;1151;1349;59;645;39
+-85.602364;United States;Indiana;;US-IN;40.551217;11688;477;577;15;1559;2
+-93.097702;United States;Iowa;;US-IA;41.878003;3162;257;79;4;1171;0
+-98.484246;United States;Kansas;;US-KS;39.011902;2065;124;102;8;444;0
+-84.270018;United States;Kentucky;;US-KY;37.839333;3050;90;154;6;1174;0
+-92.145024;United States;Louisiana;;US-LA;31.244823;24523;595;1328;32;0;0
+-69.445469;United States;Maine;;US-ME;45.253783;875;8;35;1;435;42
+-76.641271;United States;Maryland;;US-MD;39.045755;16157;837;565;42;55;0
+-71.382437;United States;Massachusetts;;US-MA;42.407211;39643;1566;1809;103;1299;0
+-85.602364;United States;Michigan;;US-MI;44.314844;32000;576;2468;77;3237;0
+-94.6859;United States;Minnesota;;US-MN;46.729553;2493;114;143;9;1160;0
+-89.398528;United States;Mississippi;;US-MS;32.354668;4512;238;169;10;0;0
+-91.831833;United States;Missouri;;US-MO;37.964253;5904;143;215;16;540;30
+-110.362566;United States;Montana;;US-MT;46.879682;433;0;10;0;243;0
+-99.901813;United States;Nebraska;;US-NE;41.492537;1648;174;33;5;0;0
+-116.419389;United States;Nevada;;US-NV;38.80261;3830;102;163;5;1958;78
+-71.572395;United States;New Hampshire;;US-NH;43.193852;1548;55;44;1;521;8
+-74.405661;United States;New Jersey;;US-NJ;40.058324;88806;3505;4520;158;13;0
+-105.032363;United States;New Mexico;;US-NM;34.97273;1971;126;58;3;465;0
+-74.217933;United States;New York;;US-NY;43.299428;253311;4894;18822;524;29311;489
+-79.0193;United States;North Carolina;;US-NC;35.759573;6985;381;220;20;1247;70
+-101.002012;United States;North Dakota;;US-ND;47.551493;627;42;9;0;0;0
+;United States;Northern Mariana Islands;;;;14;0;2;0;11;2
+-82.907123;United States;Ohio;;US-OH;40.417287;12919;1324;509;38;448;0
+-97.092877;United States;Oklahoma;;US-OK;35.007752;2712;81;143;3;1614;39
+-120.554201;United States;Oregon;;US-OR;43.804133;1956;46;75;1;42;0
+-77.194525;United States;Pennsylvania;;US-PA;41.203322;34005;1103;1357;81;466;0
+-71.477429;United States;Rhode Island;;US-RI;41.580095;5090;384;155;5;0;0
+-81.163725;United States;South Carolina;;US-SC;33.836081;4439;62;124;4;0;0
+-99.901813;United States;South Dakota;;US-SD;43.969515;1685;50;7;0;709;63
+-86.580447;United States;Tennessee;;US-TN;35.517491;7238;168;152;4;3575;231
+-99.901813;United States;Texas;;US-TX;31.968599;20613;668;523;20;4268;248
+-111.093731;United States;Utah;;US-UT;39.32098;3224;144;29;1;175;0
+-72.577841;United States;Vermont;;US-VT;44.558803;816;3;38;0;0;0
+-78.656894;United States;Virginia;;US-VA;37.431573;9018;448;300;23;721;0
+-120.740139;United States;Washington;;US-WA;47.751074;12486;582;658;24;1782;4
+-80.454903;United States;West Virginia;;;38.597626;908;18;26;6;265;0
+-88.787868;United States;Wisconsin;;US-WI;43.78444;4541;195;234;14;196;0
+-107.290284;United States;Wyoming;;US-WY;43.075968;429;116;2;0;290;57
