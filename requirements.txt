@@ -40,7 +40,7 @@ conda-build==3.18.9
 conda-package-handling==1.6.0
 conda-verify==3.4.2
 contextlib2==0.6.0
-cookiecutter==1.7.0
+cookiecutter==2.1.1
 cryptography==2.7
 cycler==0.10.0
 Cython==0.29.13
